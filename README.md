@@ -1,8 +1,3 @@
-# dictionary-app
-English dictionary app using JavaScript
+# Converto-app
 
-#### Demo: https://codersgyan.github.io/dictionary-app/
-
-PS. You need to add api key to get it work.
-
-🙏 If you find this repo helpful then don't forget to give a start ❇️ to this repository. :)
+Gives meaning of any text you type with audio.If world does not exists it gives suggested word.
